@@ -9,8 +9,8 @@ body {
     place-items: center;
     padding: 24px;
     font-family: system-ui, sans-serif;
-    background: #eef2ff;
-    color: #1f2937;
+    background: #2e2d2d;
+    color: #4f46e5;
 }
 
 .top {
@@ -29,7 +29,7 @@ body {
 
 .card {
     width: min(600 px, 100%);
-    background: #fff;
+    background: #333333;
     padding: 18px;
     border-radius: 16px;
     box-shadow: 0 10px 24px rgba(79, 70, 229, .2);
