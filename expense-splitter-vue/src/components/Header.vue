@@ -1,11 +1,11 @@
 <template>
   <header class="top">
-    <h1>Let's Cut Costs!</h1>
+    <h1>Let's Cut Costs in Vue!</h1>
     <p>Split expenses and see who owes what.</p>
   </header>
 </template>
 
-<style scope>
+<style scoped>
 .top {
   text-align: center;
   margin-bottom: 16px;
